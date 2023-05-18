@@ -1,0 +1,19 @@
+body {
+  background-color: orange;
+}
+div {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.box1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+}
+.box2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+}
+.box3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+}
